@@ -1,0 +1,33 @@
+html,body {
+    margin: 0%;
+    height: 100%;
+    background-color: #FFD78A;
+    font-family: sans-serif;
+}
+form{
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+h1{
+  text-align: center;
+}
+.input{
+  width: 80%;
+
+}
+.btnADD{
+  width: 20%;
+  display: flex;
+  align-items: center;
+}
+
+.card {
+      background: red;
+  }
+.card-active {
+      background: greenyellow;
+  }
+ 
